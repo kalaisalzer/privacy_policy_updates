@@ -1,0 +1,19 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "execute-api:Invoke",
+            "Resource": "arn:aws:execute-api:us-east-1:851797349069:e9d08c3hzf/*/POST/spa-ios-write-to-s3",
+            "Condition": {
+                "IpAddress": {
+                    "aws:SourceIp": [
+                        "69.46.44.0/24",
+                        "208.69.95.64/26"
+                    ]
+                }
+            }
+        }
+    ]
+}

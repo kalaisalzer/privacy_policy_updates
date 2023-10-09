@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>faq</key>
+	<string>&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot;&gt;
+	&lt;FONT COLOR=&quot;#000000&quot;&gt;
+		&lt;FONT FACE=&quot;Lucida Sans, serif&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+			&lt;B&gt;Q:&amp;nbsp;&amp;nbsp;What does this app do with the spam messages I report?&lt;/B&gt;
+		&lt;/FONT&gt;
+	&lt;/FONT&gt;
+&lt;/FONT&gt;
+&lt;br&gt;
+	&lt;FONT COLOR=&quot;#000000&quot;&gt;
+		&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;When you report a spam incident, SpamResponse uses
+         that information to help target our research and investigations. We&lt;/FONT&gt;&lt;br&gt;
+	&lt;/FONT&gt;
+	&lt;br&gt;
+		&lt;P STYLE=&quot;margin-top: 0.19in; margin-bottom: 0.19in; line-height: 0.23in;&quot;&gt;
+			&lt;strong&gt;
+					&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot;&gt;
+							&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot; &gt;&amp;#8226;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+					&lt;/FONT&gt;
+				&lt;/strong&gt;
+			&lt;FONT COLOR=&quot;#000000&quot;&gt;
+				&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Identify cyber-criminals.&lt;/FONT&gt;
+			&lt;/FONT&gt;
+			&lt;br&gt;
+				&lt;strong&gt;
+					&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot;&gt;
+							&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot; &gt;&amp;#8226;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+					&lt;/FONT&gt;
+				&lt;/strong&gt;
+				&lt;FONT COLOR=#000000&gt;
+					&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt; Investigate and document their illegal activities.&lt;/FONT&gt;
+				&lt;/FONT&gt;
+				&lt;br&gt;
+					&lt;strong&gt;
+						&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot;&gt;
+								&lt;font size=&quot;3&quot; style=&quot;font-size: 15px&quot;&gt;&amp;#8226;
+								&lt;/FONT&gt;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+					&lt;/strong&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt; Expose the criminal activity to the people who can stop it.&lt;/FONT&gt;
+					&lt;/FONT&gt;
+				&lt;/P&gt;
+				&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+					&lt;A NAME=&quot;_GoBack&quot;&gt;&lt;/A&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;In the case of malware, phishing attacks, 
+                        or other high-risk experiences, we disable attack infrastructure and spammers’ 
+                        delivery mechanisms wherever possible. See our&amp;nbsp;&lt;/FONT&gt;
+					&lt;/FONT&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot;  STYLE=&quot;font-size: 18px&quot;&gt;&lt;a href=&apos;https://&apos;&gt;Privacy Policy&lt;/a&gt;&lt;/FONT&gt;
+					&lt;/FONT&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&amp;nbsp;and&amp;nbsp;&lt;/FONT&gt;
+					&lt;/FONT&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;a href=&apos;https://&apos;&gt;
+							Terms and Conditions
+						&lt;/a&gt;&lt;/FONT&gt;
+					&lt;/FONT&gt;
+					&lt;FONT COLOR=&quot;#000000&quot;&gt;
+						&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&amp;nbsp;for full legal details.&lt;/FONT&gt;
+					&lt;/FONT&gt;
+				&lt;/P&gt;
+                &lt;br&gt;&lt;br&gt;
+				&lt;P STYLE=&quot;margin-top: 0.19in; margin-bottom: 0.19in&quot;&gt;
+					&lt;FONT FACE=&quot;Open sans, serif&quot;&gt;
+						&lt;FONT COLOR=&quot;#000000&quot;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+								 &lt;B&gt;Q:&amp;nbsp;&amp;nbsp;Where else can I get help with spam issues?&lt;/B&gt;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+					&lt;/FONT&gt;
+					&lt;br&gt;
+						&lt;FONT size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;&lt;/FONT&gt;&lt;A HREF=&apos;https://www.spamresponse.com/resources&apos;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;https://www.spamresponse.com/resources&lt;/FONT&gt;
+						&lt;/A&gt;
+						&lt;FONT COLOR=&quot;#000000&quot;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt; provides information on a number of places you can go to receive help with spam-related issues.&lt;/FONT&gt;
+						&lt;/FONT&gt;
+					&lt;/P&gt;
+					&lt;br&gt;
+					&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+						&lt;FONT COLOR=&quot;#000000&quot;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+								&lt;B&gt;Q:&amp;nbsp;&amp;nbsp;What are the risks associated with spam?&lt;/B&gt;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+						&lt;br&gt;
+							&lt;FONT COLOR=&quot;#000000&quot;&gt;
+								&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;Spam can take a wide range of forms, from the annoying to the sinister, and everything in between.&lt;/FONT&gt;&lt;br&gt;
+							&lt;/FONT&gt;
+						&lt;/P&gt;
+						&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in;&quot;&gt;
+							&lt;strong&gt;
+								&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+										&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;
+										&lt;/FONT&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+							&lt;/strong&gt;
+							&lt;FONT COLOR=&quot;#000000&quot;&gt;
+								&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Spam often is associated with some sort of fraud. Shady organizations often falsely claim to have received endorsements from trusted news outlets and popular celebrities. Spam frequently promises products that don’t exist or that don’t match the advertised specifications, such as counterfeit or knock-off goods, including medication.&lt;/FONT&gt;
+							&lt;/FONT&gt;
+						&lt;/P&gt;
+						&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in;&quot;&gt;
+							&lt;strong&gt;
+								&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+										&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;
+										&lt;/FONT&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+							&lt;/strong&gt;
+							&lt;FONT COLOR=&quot;#000000&quot;&gt;
+								&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Spam might facilitate other criminal activity. For example, spam might attempt to trick you into visiting websites or downloading apps that secretly install malicious software (“malware”) onto your computer or mobile phone. In other cases, spam might mislead you into giving up you login credentials to your email or bank accounts, exposing your data and personally identifiable information.&lt;/FONT&gt;
+							&lt;/FONT&gt;
+                            &lt;br&gt;
+						&lt;/P&gt;
+					&lt;/strong&gt;
+					&lt;br&gt;
+					&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+						&lt;FONT COLOR=&quot;#000000&quot;&gt;
+							&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+								 &lt;B&gt;Q:&amp;nbsp;&amp;nbsp;What information are scammers after?&lt;/B&gt;
+							&lt;/FONT&gt;
+						&lt;/FONT&gt;
+						&lt;br&gt;
+							&lt;FONT size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt; &lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;&lt;/FONT&gt; &lt;strong&gt;
+								&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+										&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226; 
+										&lt;/FONT&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+							&lt;/strong&gt;
+							&lt;FONT COLOR=&quot;#000000&quot;&gt;
+								&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Scammers are looking for information that enables them to pose as somebody else for long enough that they can steal something (like your personal information), sell it, and disappear.&lt;/FONT&gt;
+							&lt;/FONT&gt;
+							&lt;br&gt;
+								&lt;strong&gt;
+									&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+										&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+											&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;
+											&lt;/FONT&gt;
+										&lt;/FONT&gt;
+									&lt;/FONT&gt;
+								&lt;/strong&gt;
+								&lt;FONT COLOR=&quot;#000000&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Usernames and passwords are common targets. Scammers also collect other personal information, such as phone numbers, addresses, and social security numbers.&lt;/FONT&gt;
+								&lt;/FONT&gt;
+							&lt;/P&gt; &lt;br&gt;&lt;br&gt;
+							&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+								&lt;FONT COLOR=&quot;#000000&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+										&lt;B&gt;Q:&amp;nbsp;&amp;nbsp;How can I recognize spam, &lt;/B&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+								&lt;FONT COLOR=&quot;#000000&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+										&lt;B&gt;especially high-risk messages&lt;/B&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+								&lt;FONT COLOR=&quot;#000000&quot;&gt;
+									&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+										&lt;B&gt;?&lt;/B&gt;
+									&lt;/FONT&gt;
+								&lt;/FONT&gt;
+								&lt;br&gt; 
+									&lt;FONT COLOR=&quot;#000000&quot;&gt;
+										&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;&amp;quot;Spam&amp;quot; is basically the Internet’s equivalent of junk mail. Although it&amp;#8217;s usually fine for companies to send advertising to your phone or email, it&amp;#8217;s a problem (and possibly illegal) when you haven&amp;#8217;t given your permission for companies to contact you. If you don&amp;#8217;t remember giving a company your phone number or email along with permission to communicate with you, you might be the target of spam.&lt;/FONT&gt;&lt;br&gt;
+									&lt;/FONT&gt;
+								&lt;/P&gt;
+								&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+									&lt;FONT COLOR=&quot;#000000&quot;&gt;
+										&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Spam often has a few key characteristics, such as&lt;/FONT&gt;&lt;br&gt;
+									&lt;/FONT&gt;
+									&lt;br&gt;
+										&lt;strong&gt;
+											&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+												&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+													&lt;font size=&quot;3&quot; style=&quot;font-size: 18pt&quot;&gt;&amp;#8226;
+													&lt;/FONT&gt;
+												&lt;/FONT&gt;
+											&lt;/FONT&gt;
+										&lt;/strong&gt;
+										&lt;FONT COLOR=&quot;#000000&quot;&gt;
+											&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Making dishonest claims or taking advantage of a legitimate, trusted company’s identity;&lt;/FONT&gt;
+										&lt;/FONT&gt;
+										&lt;br&gt;
+											&lt;strong&gt;
+												&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+													&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+														&lt;font size=&quot;3&quot; style=&quot;font-size: 18pt&quot;&gt;&amp;#8226;
+														&lt;/FONT&gt;
+													&lt;/FONT&gt;
+												&lt;/FONT&gt;
+											&lt;/strong&gt;
+											&lt;FONT COLOR=&quot;#000000&quot;&gt;
+												&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Hiding the fact that it&amp;#8217;s advertising, including offering fraudulent prize notifications or displaying unscientific medical claims; and &lt;/FONT&gt;
+											&lt;/FONT&gt;
+											&lt;br&gt;
+												&lt;strong&gt;
+													&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+														&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+															&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;
+															&lt;/FONT&gt;
+														&lt;/FONT&gt;
+													&lt;/FONT&gt;
+												&lt;/strong&gt;
+												&lt;FONT COLOR=&quot;#000000&quot;&gt;
+													&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Complicating or blocking “unsubscribe” attempts.&lt;/FONT&gt;
+												&lt;/FONT&gt;
+											&lt;/P&gt; &lt;br&gt;
+										&lt;/UL&gt;
+										&lt;br&gt;
+										&lt;P STYLE=&quot;margin-bottom: 0in; line-height: 0.23in&quot;&gt;
+											&lt;FONT COLOR=&quot;#000000&quot;&gt;
+												&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 20px&quot;&gt;
+													&lt;B&gt;Q:&amp;nbsp;&amp;nbsp;What is phishing, and what do I do if I think I was phished?&lt;/B&gt;
+												&lt;/FONT&gt;
+											&lt;/FONT&gt;
+											&lt;br&gt;
+												&lt;FONT COLOR=&quot;#000000&quot;&gt;
+													&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;&lt;B&gt;A:&amp;nbsp;&amp;nbsp;&lt;/B&gt;Phishing is a specific type of cyber-crime in which spammers try to obtain sensitive information—like usernames, passwords, and personal details—that can be used to gain access to targeted data or systems. For instance, phishing attacks can result in identity theft or your online accounts becoming compromised.&lt;/FONT&gt;&lt;br&gt;
+												&lt;/FONT&gt;
+											&lt;/P&gt;
+											&lt;P STYLE=&quot;margin-top: 0.19in; margin-bottom: 0.19in; line-height: 0.23in#000000NT&quot; COLOR=&quot;#000000&quot;&gt;
+												&lt;strong&gt;
+													&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+														&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+															&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;
+															&lt;/FONT&gt;
+														&lt;/FONT&gt;
+													&lt;/FONT&gt;
+												&lt;/strong&gt;
+												&lt;FONT COLOR=&quot;#000000&quot;&gt;
+													&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Change your passwords and choose strong passwords that have a mixture of uppercase and lowercase letters and use special characters or symbols, and avoid re-using passwords across multiple online accounts.
+														&lt;br&gt;
+															&lt;strong&gt;
+																&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+																	&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+																		&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226; &lt;/FONT&gt;
+																	&lt;/FONT&gt;
+																&lt;/FONT&gt;
+															&lt;/strong&gt;
+															&lt;FONT COLOR=&quot;#000000&quot;&gt;
+																&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Notify appropriate parties (your bank, email provider, IT department) of the theft of your information so that they can help protect your account – and themselves, and report the incident to SpamResponse, so we can go after the spammers responsible for phishing activity.&lt;/FONT&gt;&lt;br&gt;
+															&lt;/FONT&gt;
+																&lt;strong&gt;
+																	&lt;FONT COLOR=&quot;#C2002F&quot;&gt;
+																		&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;
+																			&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&amp;#8226;&lt;/FONT&gt;
+																		&lt;/FONT&gt;
+																	&lt;/FONT&gt;
+																&lt;/strong&gt;
+																&lt;FONT COLOR=&quot;#000000&quot;&gt;
+																	&lt;FONT FACE=&quot;Lucida Sans, serif&quot; size=&quot;3&quot; STYLE=&quot;font-size: 18px&quot;&gt;Monitor youraccounts regularly for signs of suspicious activity.&lt;/FONT&gt;
+																&lt;/FONT&gt;
+													&lt;/FONT&gt;
+												&lt;/FONT&gt;
+											&lt;/P&gt;
+											&lt;br&gt;</string>
+	<key>about</key>
+	<string>&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;&quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;Lucida Sans&quot;&gt;&lt;FONT SIZE=4 STYLE=&quot;font-size: 20px&quot;&gt;&lt;B&gt;Version: 1.0 &lt;br&gt; CDate&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+
+&lt;br /&gt;
+
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;  &quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;Lucida Sans&quot;&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+When you report a spam message to SpamResponse, we investigate the message, and if a threat is identified,
+ we work with our network of digital service providers to disable the consumer access to the threat-protecting
+ others like you from exposure to malicious activity. That&apos;s not to say that you won&apos;t recieve spam messages. SpamResponse 
+ is a part of an industry-wide effort to combat text message spam.
+ &lt;br&gt; &lt;br&gt;
+ It&apos;s important to remember that we cannot take action against threats that we don&apos;t know about, so be sure to report 
+ spam messages for investigation as you recieve them. Please note that reporting spam does not remove the message from your device.
+ &lt;br&gt; &lt;br&gt;
+ As a consumer resource, SpamResponse also educates consumers about the Digital World and risks of participating in it.
+ Whether it be receiving spam text messages on your mobile phone or answering an annoying robocall, consumers are 
+ faced with more targeted threats to their mobile life. 
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</string>
+	<key>using_app</key>
+	<string>&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;&quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;Lucida Sans&quot;&gt;&lt;FONT SIZE=4 STYLE=&quot;font-size: 20px&quot;&gt;&lt;B&gt;Enable SpamResponse App&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;  &quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;&quot;&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+1. Navigate to Settings.
+&lt;br&gt;
+2. Select Phone.
+&lt;br&gt;
+3. Click SMS/Call Reporting and then SpamResponse.
+&lt;br&gt;
+4. Select Enable.
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;br&gt;
+
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;&quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;Lucida Sans&quot;&gt;&lt;FONT SIZE=4 STYLE=&quot;font-size: 20px&quot;&gt;&lt;B&gt;Report a Spam Message&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;  &quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;&quot;&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+
+1. Navigate to your messaging application and select the message you want to report as spam 
+by long pressing on the message and selecting More.
+&lt;br&gt;
+2. Select Report Messages in the toolbar.
+&lt;br&gt;
+3. Send the spam report by selecting Done.
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;br&gt;
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;&quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;Lucida Sans&quot;&gt;&lt;FONT SIZE=4 STYLE=&quot;font-size: 20px&quot;&gt;&lt;B&gt;Report All Messages as Spam&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+
+&lt;P CLASS=&quot;western&quot; STYLE=&quot;text-indent: 0in;  &quot;&gt;&lt;FONT COLOR=&quot;#000000&quot;&gt;
+&lt;FONT FACE=&quot;OpenSans seriff&quot;&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;1. Navigate to your messaging application and select Report All Messages under the list of messages for a particular sender.
+&lt;br&gt;
+2. Send the spam report by selecting Done.
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</string>
+	<key>first_privacy_p</key>
+	<string>&lt;FONT SIZE=3 STYLE=&quot;font-size: 22px&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;READ OUR PRIVACY POLICY&lt;/strong&gt;&lt;/div&gt;&lt;/FONT&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;Effective Date: August 25, 2020&lt;/FONT&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;Your privacy is important to us. This Privacy Policy describes the types of information WMC Global collects from and about you when you visit our website, &lt;a href=&quot;http://www.spamresponse.com&quot;&gt;www.spamresponse.com&lt;/a&gt; (the &amp;ldquo;Site&amp;rdquo;), or use our SpamResponse mobile application (together, the &amp;ldquo;Services&amp;rdquo;). This Privacy Policy also explains how we may use or share such information. By using the Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not, please do not use the Services. For residents from the European Economic Area, WMC Global is the data controller responsible for your information.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;QUICK GUIDE TO CONTENTS&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;INFORMATION COLLECTION&lt;/p&gt;
+&lt;p&gt;INFORMATION USE&lt;/p&gt;
+&lt;p&gt;INFORMATION SHARING &lt;/p&gt;
+&lt;p&gt;THIRD-PARTY CONTENT, LINKS, AND PLUG-INS&lt;/p&gt;
+&lt;p&gt;CHILDREN&amp;rsquo;S PRIVACY&lt;/p&gt;
+&lt;p&gt;DATA SECURITY&lt;/p&gt;
+&lt;p&gt;YOUR RIGHTS&lt;/p&gt;
+&lt;p&gt;DATA STORAGE AND TRANSFER&lt;/p&gt;
+&lt;p&gt;TO CONTACT US&lt;/p&gt;
+&lt;p&gt;USER&amp;rsquo;S ACCEPTANCE OF THIS PRIVACY POLICY&lt;/p&gt;
+&lt;p&gt;REVISIONS TO THIS PRIVACY POLICY&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/font&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in;&quot;&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;INFORMATION COLLECTION&lt;/font&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&amp;bull; Information You Provide&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Since our Services are intended to help prevent unwanted spam, we try to limit our collection of information through the Services. We will collect information from you on the Services when you choose to share it with us. This may include when you request information from us, submit a spam report, or otherwise choose to contact us. If you decline to provide any of the requested or required information, you may not be able to take full advantage of the Services and their features.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;For instance, when you choose to contact us, the information we collect may include your name, email address, phone number, company, or any other information that you choose to provide in the content of the message. You may also be required to submit certain information to report receipt of an unsolicited message, such as the type of spam you are receiving (email or text message), your mobile carrier or email service provider, the date and time of the message received, the telephone number or email address of the sender, and the content of the spam message. You may also authorize our mobile application to access your contacts in order to filter messages that you received from your contents and to distinguish those messages from spam messages. You may disable this access at any time.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&amp;bull; Information Automatically Collected&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;We may use cookies or other technologies to automatically or passively collect certain information from and about you when you use our Services. To learn more about the cookies used on the Services, and ways to limit certain tracking or to decline cookies, please visit WMC Global&amp;rsquo;s &lt;a href=&quot;https://www.spamresponse.com/cookie-policy&quot;&gt;Cookie Policy&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;California Do Not Track Disclosures: Our system may not respond to do not track requests or headers from some or all internet browsers.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&amp;bull; Combination of Information&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;We may combine the information we receive from and about you, including information you provide to us and information we automatically collect through our Services, as well as information collected from other online sources or from third-party sources to help us improve our Services and prevent unwanted spam.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;INFORMATION USE&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;WMC Global may use the information we collect from and about you for various purposes, such as to provide services, improve customer experience and engagement, and develop the Services. We will have a lawful basis for processing your information if:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&amp;bull; We need to process your information to provide you with products or services that you have requested or to enter into a contract;&lt;br /&gt;&lt;br /&gt;&amp;bull; You have consented to such processing;&lt;br /&gt;&lt;br /&gt;&amp;bull; We have a legitimate interest in processing your data, such as for analytics, fraud prevention, improving the Services and our business, and direct marketing; and/or&lt;br /&gt;&lt;br /&gt;&amp;bull; We are legally required to process it.&lt;/p&gt;
+&lt;p&gt; We may use the information we collect from and about you:&lt;br /&gt;&lt;br /&gt;&amp;bull; To help prevent unsolicited messages, respond to your questions or inquiries, or contact and communicate with you when necessary;&lt;br /&gt;&lt;br /&gt;&amp;bull; To develop new products or services and to conduct analysis to enhance current products and services;&lt;br /&gt;&lt;br /&gt;&amp;bull; To review the usage and operations of our Services and improve our content, products, and services;&lt;br /&gt;&lt;br /&gt;&amp;bull; To address problems with the Services or our business;&lt;br /&gt;&lt;br /&gt;&amp;bull; To protect the security or integrity of the Services and our business; and&lt;br /&gt;&lt;br /&gt;&amp;bull; As otherwise described to you at the point of data collection.&lt;/p&gt;
+&lt;p&gt;We may store this information for as long as is reasonably necessary to accomplish these tasks, unless the law permits or requires a longer retention period. For example, if you choose to contact us, we will store any information you provide as long as is reasonably necessary to respond to you.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;INFORMATION SHARING&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;WMC Global does not disclose personal information collected through the Services to any third parties for their direct marketing purposes. WMC Global may disclose the information we collect from and about you in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Affiliates: We may share your information with our affiliated companies, some of which do not share the same brand name as us (for example, Media Thirst). This sharing is done for investigation purposes and to help us prevent unwanted spam;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Service Providers: We may share your information with our third-party service providers that provide business, professional, or technical support functions for us;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Legal Obligations; Safety: We may share your information as necessary if we believe that there has been a violation of the Terms of Use or of our rights or the rights of any third party. We may also disclose your information, in any country in which we operate, to respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Aggregate or Anonymous Information: WMC Global may also share aggregate or de-identified information with mobile carriers, internet service providers, or other third parties as appropriate for the purpose of helping to prevent unwanted spam;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Sale or Transfer of Business Assets: WMC Global may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use the information collected through the Services in a manner that is consistent with this Privacy Policy; and&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Other: We also may share your information as described to you at the point of collection.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;THIRD-PARTY CONTENT, LINKS, AND PLUG-INS&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;The Services may have links to third-party websites or resources, which may have privacy policies that differ from our own. We are not responsible for the practices of such websites or resources.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;_GoBack&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #000000;&quot;&gt; The Services may also offer you the ability to interact with social plugins from social media sites and apps, which may allow us and/or the social media site or app to receive data from or about you. In some cases, we may know that you clicked on a social plugin, such as a Twitter &quot;Follow&quot; button, or receive other information from the social media sites or apps. Similarly, if you have previously provided information to a third-party operating a plug-in on the Services, then such third-party may recognize you on the Services. Your use of social network plugins is subject to each social media site&apos;s or app&apos;s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites or apps, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for the practices of such sites or apps. &lt;/span&gt;&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;CHILDREN&apos;S PRIVACY&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;Protecting children&apos;s privacy is important to us. We do not direct the Services to, nor do we knowingly collect (or sell) any personal information from, children under the age of sixteen.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;DATA SECURITY&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about you. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;YOUR RIGHTS&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;If you are a resident of California, Australia, Canada, or the European Economic Area and you or your authorized representative would like to gain access to, update, erase, or (as applicable) restrict or withdraw any consent to the processing of certain information collected from and about you through the Services, please contact us at &lt;a href=&quot;mailto:privacy@wmcglobal.com&quot;&gt;privacy@wmcglobal.com&lt;/a&gt;. We may need to request additional information from you or your authorized representative, or that you or they take additional steps, for verification purposes. Please note that, if you have not provided contact information to us, such as in connection with submitting a spam report or otherwise contacting us, we will not be able to reasonably verify your identity to the degree of certainty applicable law requires or to respond to your request.&lt;/p&gt;
+&lt;p&gt;In addition, residents of the European Economic Area also have the right to object to the processing of their personal information and, in some instances, the right to request that we export, in a structured, commonly used, machine readable, and interoperable format, and transmit to another controller, such information.&lt;/p&gt;
+&lt;p&gt;For purposes of compliance with the California Consumer Privacy Act, in addition to the information described throughout this Privacy Policy, we make the following disclosures:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&amp;bull; We collect the following categories of personal information: Identifiers/contact information, internet or other electronic network activity information, and inferences drawn from the above.&lt;br /&gt;&lt;br /&gt;&amp;bull; The sources of personal information are: You, analytics tools, advertising networks, and social networks.&lt;br /&gt;&lt;br /&gt;&amp;bull; The business or commercial purposes for collecting personal information are described above under &amp;ldquo;INFORMATION USE.&amp;rdquo;&lt;br /&gt;&lt;br /&gt;&amp;bull; We disclose the following categories of personal information for a business purpose: Identifiers/contact information, internet or other electronic network activity information, and inferences drawn from the above. We describe our disclosures, including why and to whom we make them, above under &amp;ldquo;INFORMATION SHARING.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We do not sell personal information. We value your privacy and will not discriminate in response to your exercise of your privacy rights.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;DATA STORAGE AND TRANSFER&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;Our digital operations are conducted, in whole or in part, in the United States and Canada, where the data protection and other laws may differ from those in your country of residence. Regardless of where you live, you consent to have your information transferred to, and processed and stored in, the United States and Canada. Additionally, if you are a European Economic Area resident, you consent to the collection and use your information in accordance with this Privacy Policy, in the absence of an adequacy decision or the appropriate safeguards set forth in Articles 45 and 46, respectively, of the General Data Protection Regulation.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;TO CONTACT US&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at &lt;a href=&quot;mailto:privacy@wmcglobal.com&quot;&gt;privacy@wmcglobal.com&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;You also have the right to submit feedback to the applicable supervisory authority in your jurisdiction of residence. If you are a resident of the United Kingdom, that supervisory authority is the Information Commissioner&amp;rsquo;s Office: 0303 123 1113 or &lt;a href=&quot;https://www.ico.org.uk/concerns/&quot;&gt;ico.org.uk/concerns/&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt; If you are a resident of South Africa, you also have the right to submit feedback about this Privacy Policy, or the practices described herein, to the Information Regulator at 012 406 4818 or &lt;a href=&quot;mailto:inforeg@justice.gov.za&quot;&gt;inforeg@justice.gov.za&lt;/a&gt;. For more information, please visit &lt;a href=&quot;http://justice.gov.za/inforeg&quot;&gt;justice.gov.za/inforeg&lt;/a&gt;.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;USER&amp;rsquo;S ACCEPTANCE OF THIS PRIVACY POLICY&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;By visiting the Services, you signify your acceptance to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Services.&lt;/p&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;strong&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 20px&quot;&gt;REVISIONS TO THIS PRIVACY POLICY&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;FONT SIZE=3 STYLE=&quot;font-size: 18px&quot;&gt;
+&lt;p&gt;WMC Global reserves the right, at our sole discretion, to change, modify, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Services. Your continued use of the Services following the posting of changes to these terms means you accept these changes. If we change the Privacy Policy in a material way, we will provide appropriate notice to you.&lt;/p&gt;
+&lt;/font&gt;</string>
+	<key>first_t_c</key>
+	<string>&lt;FONT face=&quot;Lucida Sans, serif&quot;&gt;&lt;FONT SIZE=3 STYLE=&quot;font-size: 22px&quot;&gt;&lt;div STYLE=&quot;text-align: center&quot;&gt;&lt;B&gt;Terms &amp; Conditions&lt;/B&gt; &lt;/div&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;         &lt;br /&gt;&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-top: 0.17in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;PLEASE
+READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES.&amp;#8203;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;1.
+ACCEPTANCE&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;By
+visiting and using the WMC Global website,&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;a href=&quot;http://www.spamresponse.com/&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;www.spamresponse.com&lt;/font&gt;&lt;/font&gt;&lt;/a&gt;,&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;
+or mobile application (together, the &amp;ldquo;Services&amp;rdquo;), you
+agree, without limitation or qualification, to be bound by these
+terms and conditions of use (&amp;ldquo;Terms of Use&amp;rdquo;), and the
+Privacy Policy.&amp;nbsp; If you do not agree to all of these Terms of
+Use and the Privacy Policy, please do not use the Services.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;WMC
+Global may revise these Terms of Use at any time.&amp;nbsp; Your
+continued usage of the Services will mean you accept those changes,
+and you will comply with all applicable laws and regulations.&amp;nbsp;
+The materials provided on the Services are protected by law,
+including, but not limited to, United States copyright laws and
+international treaties.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+terms &amp;ldquo;you,&amp;rdquo; &amp;ldquo;your,&amp;rdquo; &amp;ldquo;user,&amp;rdquo; and
+&amp;ldquo;users,&amp;rdquo; as used herein, refer to all individuals and/or
+entities accessing the Services for any reason.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;2.
+USE RESTRICTIONS&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+content on the Services, such as text, graphics, images, photographs,
+illustrations, trademarks, trade names, service marks, logos,
+information obtained from WMC Global&amp;rsquo;s licensors, and other
+materials (&amp;ldquo;Contents&amp;rdquo;) is protected by copyright under
+both United States and foreign laws.&amp;nbsp; &amp;ldquo;WMC Global&amp;rdquo;,
+&amp;ldquo;SpamResponse&amp;rdquo;, all WMC Global or SpamResponse logos, and
+all titles, characters, names, graphics, and button icons are service
+marks, trademarks, and/or trade dress of WMC Global or otherwise
+proprietary to WMC Global and may not be used by you for any reason
+    other than as expressly permitted. All other trademarks, service
+marks, product names, and company names or logos appearing in the
+Services are the property of their respective owners and you do not
+acquire any ownership rights in such marks, logos, or names by using
+the Services.&amp;nbsp; Title to the Contents remains with WMC Global.&amp;nbsp;
+Any use of the Contents not expressly permitted by these Terms of Use
+is a breach of these Terms of Use and may violate copyright,
+trademark, and other laws.&amp;nbsp; Except as stated herein, none of the
+Contents may be copied, reproduced, distributed, republished,
+downloaded, displayed, posted or transmitted in any form or by any
+means without the prior written permission of WMC Global or its
+licensors.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;WMC
+Global authorizes you to view, download, and/or print a single copy
+of the Contents solely for your own lawful, personal, and
+non-commercial use if you include the following copyright notice:&amp;nbsp;
+&amp;ldquo;Copyright &amp;#169; 2018, WMC Global.&amp;nbsp; All rights reserved&amp;rdquo;
+and retain other copyright and proprietary rights notices which were
+contained in the Contents.&amp;nbsp; Any special rules for the use of
+other items provided on the Services may be included elsewhere within
+the Services and are incorporated into these Terms of Use by
+reference.&amp;nbsp; The use of the Contents on any other site or in a
+networked computer environment for any purpose is prohibited.&amp;nbsp;
+All rights not expressly granted herein are reserved to WMC Global
+and its licensors.&amp;nbsp; If you violate any of these Terms of Use,
+your permission to use the Contents automatically terminates and you
+must immediately destroy any copies you have made of any portion of
+the Contents.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;So
+long as you are in compliance with these Terms of Use, WMC Global
+grants a non-exclusive limited, non-transferable license to use the
+Services. You may not distribute or make the Services available over
+a network where it could be used by multiple devices at the same
+time.&amp;nbsp; You may not rent, lease, lend, sell, redistribute or
+sublicense the Services. You may not copy, decompile, reverse
+engineer, disassemble, or attempt to derive the source code of,
+modify, or create derivative works of the Services, any updates, or
+any part thereof. Any attempt to do so is a violation of these Terms
+of Use.&amp;nbsp; If you breach this restriction, you may be subject to
+prosecution and damages. These Terms of Use will govern any upgrades
+provided by WMC Global that replace and/or supplement the original
+Services, unless such upgrade is accompanied by separate or updated
+Terms of Use. If you violate any of these Terms of Use, your
+permission to use the Contents automatically terminates and you must
+immediately destroy any copies you have made of any portion of the
+Contents.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;You
+may not, without WMC Global&amp;rsquo;s written permission, &amp;ldquo;mirror&amp;rdquo;
+any Contents contained in this Services or any other server.&amp;nbsp;
+You may not use the Services for any purpose that is unlawful or
+prohibited by these Terms of Use.&amp;nbsp; You may not use the Services
+in any manner that could damage, disable, overburden, or impair the
+Services, or interfere with any other party&amp;rsquo;s use and enjoyment
+of the Services.&amp;nbsp; You may not attempt to gain unauthorized
+access to the Services through hacking, password mining or any other
+means.&amp;nbsp; WMC Global reserves the right, in its sole discretion,
+to terminate your access to the Services, or any portion thereof, at
+any time, for any reason or for no reason at all, without prior
+notice or any notice.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;3.
+USER COMMUNICATIONS&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+personal information you submit to WMC Global is governed by the
+Privacy Policy for the Services.&amp;nbsp; To the extent there is an
+inconsistency between the Terms of Use and the Privacy Policy, the
+Privacy Policy shall govern.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Except
+as provided under Submission of Ideas (below), WMC Global does not
+claim ownership of any information or material a user provides to WMC
+Global or uploads, input, submits, or transmits to this Services
+(&amp;ldquo;Communication&amp;rdquo;).&amp;nbsp; You agree that you will not make
+any Communication that is, in whole or in part, libelous; scandalous;
+inflammatory; discriminatory; defamatory; false; threatening; vulgar;
+obscene; pornographic; profane; abusive; harassing; invasive of
+another&amp;rsquo;s privacy; hateful or bashing; aimed at gender, race,
+color, sexual orientation, national origin, religious views, or
+disability; in violation of local, state, national, or international
+law; or that infringes on, or violates, any right of any party.&amp;nbsp;
+Additionally, you agree that you will not: (a) make any Communication
+that is an advertisement or solicitation of business; (b) disrupt the
+normal flow of dialogue or make a Communication unrelated to the
+topic being discussed (unless it is clear the discussion is
+free-form); (c) post a chain letter or pyramid scheme; (d)
+impersonate another person; (e) distribute viruses or other harmful
+computer code; (f) harvest or otherwise collect information about
+others, including email addresses, without their consent; (g) post
+the same note more than once (otherwise known as &amp;ldquo;spamming&amp;rdquo;);
+or (h) engage in any other conduct that restricts or inhibits any
+other person from using or enjoying the Services, or which, in the
+sole judgment of WMC Global, exposes WMC Global or any of its
+licensors, partners, or customers to any liability or detriment of
+any type.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;By
+making a Communication, you agree that such Communication is
+non-confidential, non-proprietary, and may be disseminated or used by
+WMC Global, on an as-needed basis.&amp;nbsp; If you make a Communication,
+you automatically grant&amp;mdash;or warrant that the owner of such
+content has expressly granted and can make copies of such express
+grant available to WMC Global upon request&amp;mdash; WMC Global a
+royalty-free, perpetual, irrevocable, worldwide, nonexclusive license
+to use, reproduce, create derivative works from, modify, publish,
+edit, translate, distribute, perform, and display the Communication
+in any media or medium, or any form, format, or forum now known or
+hereafter developed.&amp;nbsp; Notwithstanding the foregoing, WMC Global
+is not required to use any Communication.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;You
+are solely responsible for your Communication, the consequences of
+    making a Communication, and your reliance on any Communication.&amp;nbsp;
+    WMC Global is not responsible for the consequences of any
+Communication.&amp;nbsp; WMC Global is not responsible for screening or
+    monitoring Communications made to the Services by users.&amp;nbsp; If
+notified by a user of a Communication allegedly in violation of these
+Terms of Use, WMC Global may investigate the allegation and determine
+in good faith and its sole discretion whether to remove such
+Communication.&amp;nbsp; WMC Global will have no liability or
+responsibility to users for performance or nonperformance of such
+activities.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;WMC
+Global reserves the right (but is not obligated) to: (a) record the
+dialogue on the Services; (b) investigate an allegation that a
+Communication does not comply with these Terms of Use and determine
+in its sole discretion to remove or request the removal of the
+Communication; (c) terminate a user&amp;rsquo;s access to any or all
+parts of the Services upon any breach of these Terms of Use or the
+law; (d) monitor, edit, or disclose any Communication; (e) edit or
+delete any Communication posted on the Services, regardless of
+whether such Communication violates these Terms of Use.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;4.
+SUBMISSION OF IDEAS&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;It
+is WMC Global&amp;rsquo;s policy not to accept or review unsolicited
+ideas or suggestions from persons outside the company.&amp;nbsp;
+Notwithstanding such policy, any ideas, suggestions, know-how, or
+concepts that are offered or communicated to WMC Global through the
+Services or otherwise shall be the property of WMC Global, and may be
+treated by WMC Global as non-confidential information.&amp;nbsp; WMC
+Global shall have the unrestricted right to use and disclose such
+ideas, suggestions, know-how or concepts for any purpose without
+compensation or obligation to any party.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;5.
+LIABILITY&amp;nbsp;OF WMC GLOBAL AND ITS LICENSORS AND PARTNERS&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+use of the Services or the Contents is at your own risk.&amp;nbsp; The
+Contents in the Services could include technical inaccuracies or
+typographical errors.&amp;nbsp; WMC Global may make changes or
+improvements at any time.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;YOU
+EXPRESSLY AGREE THAT USE OF THE SERVICES AND THE INTERNET IS ENTIRELY
+AT YOUR OWN RISK. THE SERVICES AND ITS CONTENTS ARE PROVIDED ON AN
+&amp;quot;AS IS,&amp;quot; &amp;quot;AS AVAILABLE&amp;quot; BASIS. TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, WMC GLOBAL DISCLAIMS ALL REPRESENTATIONS
+AND WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING,
+WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR
+A PARTICULAR PURPOSE. WMC GLOBAL DOES NOT WARRANT THAT THE FUNCTIONS
+CONTAINED IN THE MATERIAL WILL BE UNINTERRUPTED OR ERROR-FREE, THAT
+DEFECTS WILL BE CORRECTED, OR THAT THE SERVICES OR THE SERVER THAT
+MAKES THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+WMC GLOBAL DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE
+USE OF OR THE RESULT OF THE USE OF THE CONTENTS IN THE SERVICES IN
+TERMS OF THEIR CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE.&amp;nbsp;
+YOU (AND NOT WMC GLOBAL) ASSUME THE ENTIRE COST OF ALL NECESSARY
+SERVICING, REPAIR OR CORRECTION.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;NEITHER
+WMC GLOBAL NOR ANY OF ITS DIRECTORS, EMPLOYEES, SHAREHOLDERS,
+AFFILIATES, AGENTS, REPRESENTATIVES, JOINT VENTURE PARTIES,
+INDEPENDENT CONTRACTORS, THIRD-PARTY INFORMATION PROVIDERS,
+MERCHANTS, OR LICENSORS (COLLECTIVELY, &amp;quot;WMC GLOBAL PARTIES&amp;quot;)
+SHALL BE LIABLE, IN CONTRACT OR IN TORT, FOR ANY DAMAGES OF ANY KIND,
+INCLUDING, WITHOUT LIMITATION, COMPENSATORY, DIRECT, INDIRECT,
+SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES; LOSS OF
+DATA, INCOME, OR PROFIT; OR LOSS OR DAMAGE TO PROPERTY, ARISING FROM
+ANY ACT OR OMISSION BY WMC GLOBAL PARTIES AS A RESULT OF ANY ACT OR
+OMISSION IN FULFILLMENT OF OR IN BREACH OF THESE TERMS OF USE OR THE
+PRIVACY POLICY.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;6.
+CONTACT WITH THIRD PARTIES AND THIRD PARTY WEBSITES&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+Services may contain hyperlinks to other websites and webpages
+(&amp;ldquo;Third-Party Pages&amp;rdquo;), as well as to text, graphics,
+videos, images, music, sounds, and information belonging to or
+originating from other third-parties (collectively, &amp;ldquo;Third-Party
+Applications&amp;rdquo;).&amp;nbsp; WMC Global does not investigate, monitor,
+or review any Third-Party Pages or Third-Party Applications to ensure
+their accuracy, completeness, or appropriateness.&amp;nbsp; WMC Global is
+not responsible for the Third-Party Pages or any Third-Party
+Applications accessed through the Services. You agree that WMC Global
+shall have no liability with respect to any loss or damage of any
+kind incurred as a result of any dealings between you and any third
+party, or as a result of the presence of such third party on the
+Services.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;The
+inclusion of any hyperlinks to any Third-Party Pages or Third-Party
+Applications on the Services does not indicate WMC Global&amp;rsquo;s
+approval or endorsement thereof. These links are provided solely as a
+convenience or benefit to users.&amp;nbsp; Your interactions with a third
+party on the Services, or based on such third party&amp;rsquo;s
+participation or presence on the Services, are solely between you and
+the third party.&amp;nbsp; WMC Global makes no representations or
+warranties with respect to the content, ownership, or legality of any
+such linked third party website. If you choose to leave the Services
+to access any Third-Party Pages or Third-Party Applications, you do
+so at your own risk.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;7.
+INDEMNITY&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;You
+agree to defend, indemnify, and hold WMC Global, its officers,
+directors, employees, agents, licensors, and partners, harmless from
+and against any claims, actions, demands, liabilities, and
+settlements including, without limitation, reasonable legal and
+accounting fees, resulting from, or alleged to result from, your use
+of the Services or Contents, or your violation of these Terms of Use.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;8.
+MODIFICATION OR SUSPENSION OF THE SERVICES&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;You
+agree that WMC Global may, in its sole discretion and at any time,
+modify, discontinue, or suspend its operation of the Services, any
+part thereof or any Contents, temporarily or permanently, without
+notice or liability to you.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;9.
+GENERAL&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Access
+to the Contents may not be legal by certain persons or in certain
+countries.&amp;nbsp; If you access the Services from outside the United
+States, you do so at your own risk and are responsible for compliance
+with the laws of your jurisdiction.&amp;nbsp; The following provisions
+survive the expiration or termination of these Terms of Use for any
+    reason whatsoever:&amp;nbsp; Use Restrictions, User Communications,
+Submission of Ideas, Liability of WMC Global and its Licensors and
+Partners, Indemnity, Applicable Laws, and Complete Agreement.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;10.
+APPLICABLE LAWS&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;These
+Terms of Use are governed in accordance with the laws of Virginia,
+United States of America, without regard to its conflict of law
+provisions.&amp;nbsp; You and WMC Global hereby expressly consent and
+submit to the exclusive jurisdiction of the state and federal courts
+of Fairfax, Virginia for the adjudication or disposition of any
+claim, action or dispute arising out of your use of the Services,
+these Terms of Use, or the Privacy Policy.&amp;nbsp; If any provision of
+these Terms of Use is found to be invalid by any court having
+competent jurisdiction, the invalidity of such provision shall not
+affect the validity of the remaining provisions of these Terms of
+Use, which shall remain in full force and effect.&amp;nbsp; No waiver of
+any provision of these Terms of Use shall be deemed a further or
+continuing waiver of such term or condition or any other term or
+condition.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;11.
+NOTICE AND TAKE DOWN PROCEDURES&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;If
+you believe any Communication accessible on or from the Services
+infringes your copyright, you may request removal of those materials
+(or access thereto) from the Services by contacting WMC Global
+(address identified below) and providing the following information:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;
+&lt;font color=&quot;#000000&quot;&gt;1. Identification
+of the copyrighted work that you believe to be infringed.&amp;nbsp;
+Please describe the work, and where possible include a copy or the
+location (e.g., URL) of an authorized version of the work;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;2. Identification
+of the Communication that you believe to be infringing and its
+location.&amp;nbsp; Please describe the Communication, and provide us
+with its URL or any other pertinent information that will allow us
+to locate the Communication;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;3. Your
+name, address, telephone number, and email address;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;4. A
+statement that you have a good faith belief that the complained of
+use of the work is not authorized by the copyright owner, its agent,
+or the law;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;5. A
+statement that the information you have supplied is accurate, and
+indicating that &amp;ldquo;under penalty of perjury,&amp;rdquo; you are the
+copyright owner or authorized representative; and&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;6. A
+signature or the electronic equivalent from the copyright holder or
+authorized representative.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;br&gt;&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Our
+address for copyright issues relating to this Services is as follows:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;br&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;WMC
+Global&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;11350 Random Hills Rd&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Suite
+800&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Fairfax,
+VA 22030&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Tel.
+(703) 222-6280&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt; &lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;In
+an effort to protect the rights of copyright owners, WMC Global
+maintains a policy for the termination, in appropriate circumstances,
+    of users of this Services who are repeat infringers.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;
+&lt;span style=&quot;display: inline-block; border: none; padding: 0in&quot;&gt;&lt;font face=&quot;Lucida Sans, serif&quot;&gt;
+&lt;font size=&quot;4&quot; style=&quot;font-size:  20px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;12.
+COMPLETE AGREEMENT&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p class=&quot;western&quot; style=&quot;text-indent: 0in; margin-bottom: 0in&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;
+&lt;font face=&quot;Lucida Sans, serif&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;font-size: 18px&quot;&gt;Except
+as expressly provided in a particular notice or disclaimer posted by
+or on behalf of WMC Global on the Services, these Terms of Use,
+including the Privacy Policy, constitute the entire agreement between
+you and WMC Global with respect to the use of the Services and
+Contents.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;</string>
+	<key>url</key>
+	<string>https://api.spamresponse.com/</string>
+	<key>key_qa</key>
+	<string>77Q9xKhXr36D4LZVmlWkh4OCT7MaGyKh9KXQoyRw</string>
+	<key>key_stage</key>
+	<string>Ctir51deYL9YPGlGMTmm53jgw7cwgMpr5wTuLOP6</string>
+	<key>key</key>
+	<string>KQdZ6tO2702yRedj1oECX7EXp5ysDabU2WquPyQ0</string>
+</dict>
+</plist>

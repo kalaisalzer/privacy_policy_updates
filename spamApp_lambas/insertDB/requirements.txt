@@ -1,0 +1,4 @@
+boto3==1.4.7
+PyMySQL==0.7.11
+requests==2.11.1
+beautifulsoup4==4.6.0

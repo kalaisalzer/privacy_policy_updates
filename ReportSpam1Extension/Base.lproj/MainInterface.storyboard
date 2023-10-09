@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="jgb-fl-G6U">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Regular.ttf">
+            <string>SourceSansPro-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Unwanted Communication Reporting Extension-->
+        <scene sceneID="6AU-Zh-pxb">
+            <objects>
+                <viewController id="jgb-fl-G6U" customClass="UnwantedCommunicationReportingExtension" customModule="ReportSpam1Extension" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="t7G-zx-LCi">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hvQ-Ve-Bmu">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kE1-fV-lnb">
+                                        <rect key="frame" x="20" y="80" width="339" height="0.0"/>
+                                        <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="18"/>
+                                        <color key="textColor" name="darkGrayColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splashImg" translatesAutoresizingMaskIntoConstraints="NO" id="NM6-84-907">
+                                        <rect key="frame" x="64.5" y="110" width="250" height="250"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="250" id="1x3-Rv-tBh"/>
+                                            <constraint firstAttribute="width" constant="250" id="vum-ts-rQu"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aRD-MY-iag">
+                                        <rect key="frame" x="37" y="367.5" width="301" height="0.0"/>
+                                        <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="18"/>
+                                        <color key="textColor" name="darkGrayColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" name="appBackGround"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="kE1-fV-lnb" secondAttribute="trailing" constant="16" id="2L3-WW-6XS"/>
+                                    <constraint firstItem="aRD-MY-iag" firstAttribute="top" secondItem="NM6-84-907" secondAttribute="bottom" constant="7.5" id="7Cn-KB-c12"/>
+                                    <constraint firstItem="aRD-MY-iag" firstAttribute="centerX" secondItem="hvQ-Ve-Bmu" secondAttribute="centerX" id="88D-iQ-mML"/>
+                                    <constraint firstItem="kE1-fV-lnb" firstAttribute="centerX" secondItem="NM6-84-907" secondAttribute="centerX" id="9E2-0I-wcq"/>
+                                    <constraint firstAttribute="trailing" secondItem="aRD-MY-iag" secondAttribute="trailing" constant="37" id="Mge-Q0-Ooi"/>
+                                    <constraint firstItem="aRD-MY-iag" firstAttribute="leading" secondItem="hvQ-Ve-Bmu" secondAttribute="leading" constant="37" id="SmJ-Df-lLw"/>
+                                    <constraint firstItem="kE1-fV-lnb" firstAttribute="leading" secondItem="hvQ-Ve-Bmu" secondAttribute="leading" constant="20" id="Tc0-Al-Ivb"/>
+                                    <constraint firstItem="kE1-fV-lnb" firstAttribute="centerX" secondItem="hvQ-Ve-Bmu" secondAttribute="centerX" constant="2" id="c1Z-yp-uIJ"/>
+                                    <constraint firstItem="NM6-84-907" firstAttribute="top" secondItem="kE1-fV-lnb" secondAttribute="bottom" constant="30" id="jLC-VG-653"/>
+                                    <constraint firstAttribute="bottom" secondItem="aRD-MY-iag" secondAttribute="bottom" priority="250" constant="199" id="mFO-dd-rZN"/>
+                                    <constraint firstItem="kE1-fV-lnb" firstAttribute="top" secondItem="hvQ-Ve-Bmu" secondAttribute="top" constant="80" id="zSq-ay-89Z"/>
+                                </constraints>
+                            </scrollView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Yid-qx-g5N"/>
+                        <color key="backgroundColor" name="appBackGround"/>
+                        <constraints>
+                            <constraint firstItem="Yid-qx-g5N" firstAttribute="trailing" secondItem="hvQ-Ve-Bmu" secondAttribute="trailing" id="NH7-w9-5x4"/>
+                            <constraint firstItem="Yid-qx-g5N" firstAttribute="top" secondItem="hvQ-Ve-Bmu" secondAttribute="top" id="iqD-2B-GxV"/>
+                            <constraint firstItem="Yid-qx-g5N" firstAttribute="bottom" secondItem="hvQ-Ve-Bmu" secondAttribute="bottom" id="tw3-Am-rgf"/>
+                            <constraint firstItem="hvQ-Ve-Bmu" firstAttribute="leading" secondItem="Yid-qx-g5N" secondAttribute="leading" id="uFS-TD-sZW"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="confirmLabel" destination="kE1-fV-lnb" id="0i5-Ra-2a4"/>
+                        <outlet property="red_label" destination="aRD-MY-iag" id="ijV-7E-8RS"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kLq-6l-8fg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="848.79999999999995" y="-67.016491754122939"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splashImg" width="4267" height="2084"/>
+        <namedColor name="appBackGround">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="darkGrayColor">
+            <color red="0.28999999165534973" green="0.28999999165534973" blue="0.28999999165534973" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

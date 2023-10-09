@@ -1,0 +1,5 @@
+# Apparently this file is needed, or lambda-uploader won't even build a virtual environment
+pymysql==0.8.0
+requests==2.18.4
+SQLAlchemy==1.2.8
+py-mini-racer==0.1.15
